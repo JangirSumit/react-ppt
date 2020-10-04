@@ -12,11 +12,10 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "start-deck": "mdx-deck src/deck/deck.mdx"
+    "start": "mdx-deck src/deck/deck.mdx"
   },
   "eslintConfig": {
     "extends": "react-app"
